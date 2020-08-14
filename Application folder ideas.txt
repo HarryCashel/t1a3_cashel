@@ -1,0 +1,20 @@
+GUI - Application Folder
+
+weather
+enter any state capital to find the whether;
+	if syd - show syd weather
+	if melbourne - show melbourne weather
+
+	if entered incorrect name, try again.
+
+
+calculator 
+to win solve the puzzle
+80085 = win 
+
+
+calendar
+	Option to show week, day or month.
+	"would you like to see the day, week or month 	calendar view?"
+
+Alarm? timer... take break
